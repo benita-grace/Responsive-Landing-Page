@@ -1,5 +1,4 @@
-# PRODIGY_WD_01
-Responsive Landing Page 
+# Responsive Landing Page 
 
 This project is a responsive landing page designed to provide a modern and seamless experience across all devices. Below, you'll find a comprehensive description of the project's features, the technologies used, and instructions for setting up and running the application.
 
